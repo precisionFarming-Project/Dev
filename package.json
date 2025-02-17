@@ -1,0 +1,27 @@
+{
+  "name": "precision-farming-project",
+  "version": "1.0.0",
+  "description": "Final Year Project",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "js-tokens": "^4.0.0",
+    "loose-envify": "^1.4.0",
+    "mongoose": "^8.10.0",
+    "object-assign": "^4.1.1",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-is": "^16.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
